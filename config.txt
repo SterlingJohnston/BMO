@@ -1,0 +1,4 @@
+Purge=True
+Filter=True
+AutoRole=True
+RoleName=Member
