@@ -1,4 +1,6 @@
 Purge=True
 Filter=True
+BmoAdmin=x
 AutoRole=True
 RoleName=Member
+BotLogs=ENTER CHANNEL ID
